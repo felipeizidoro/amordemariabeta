@@ -3,6 +3,9 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    background-color: white;
+}
 .header{
  background-color: #97cde1;
     color: #28225c;
